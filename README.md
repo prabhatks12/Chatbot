@@ -3,6 +3,8 @@ It is an interactive machine learning project where user can ask anything and th
 
 ## API used:
 The chatbot is made using chatterbot api.
+It is necessary to translate the data in chatterbot api format.
+To put it into that format I had to filter my data first.
 
 ## Other Details:
 I have used corpus movie dataset for the training purpose.But the data contained some unwanted parameters.
