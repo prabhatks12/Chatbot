@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  3 14:19:42 2018
 
-@author: prabhat
+@author: prabhat kumar singh 
 """
 
 from chatterbot import ChatBot
